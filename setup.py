@@ -2,7 +2,7 @@
 
 from distutils.core import setup
 
-setup(name='Google Drive Downloader',
+setup(name='pygdd',
       version='0.1',
       description='Python utility to download documents in Google Drive',
       author='Miguel Carranza',
