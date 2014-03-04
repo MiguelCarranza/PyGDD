@@ -8,6 +8,6 @@ setup(name='pygdd',
       author='Miguel Carranza',
       author_email='miguel@miguelcarranza.es',
       url='http://www.github.com/MiguelCarranza',
-      py_modules=['gdd'],
+      py_modules=['pygdd'],
       license='MIT License',
       )
